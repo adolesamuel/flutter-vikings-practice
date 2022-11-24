@@ -1,5 +1,16 @@
 # mandelbrot_app
 
+Practice
+ 
+Using Isolates to create Mandelbrot sets in a flutter app
+
+Based on the session by Thomas Burkhart
+
+https://www.youtube.com/watch?v=IUs3Nd7FSqE
+
+https://github.com/escamoteur/flutter_mandel
+
+
 A new Flutter project.
 
 ## Getting Started
